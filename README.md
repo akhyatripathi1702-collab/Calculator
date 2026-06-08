@@ -1,2 +1,2 @@
 # Calculator
-This is a simple calculator.
+This is a simple age calculator.
